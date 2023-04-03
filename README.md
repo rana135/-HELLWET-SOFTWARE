@@ -10,7 +10,7 @@ A simple but powerful todo app built with React and Node.js that allows users to
 * Search and sorting capabilities
 * Secured All Page With Private Route, Users Must Have To Log In then get Access It..
 * Responsive Design That Adapts To Different Screen Sizes And Devices.
-* Amzging UI Exprience
+* Amazing UI Exprience
 
 ### Technologies :
 This project was built using the following technologies:
@@ -32,7 +32,7 @@ npm start
 * Clone the repository
 * Choose the option 'Download Zip' and wait until it download.
 * Then you need to decompress it.
-* You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from here
+* You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from [here](https://www.win-rar.com/download.html?&L=0)
 * Install [insert any required dependencies here]
 * Run npm start to launch the app
 
