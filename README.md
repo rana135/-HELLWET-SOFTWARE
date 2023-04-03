@@ -59,10 +59,10 @@ If you would like to contribute to the project, please follow these steps:
 
 👤 **Md Rana Hossain**
 
-- GitHub: [Bantealem](https://github.com/rana135)
-- Facebook: [Bantealem](https://www.facebook.com/RanaHossainShimul/)
-- LinkedIn: [Bantealem](https://www.linkedin.com/in/md-rana-hossain-487a09228/)
-- Youtube: [Bantealem](https://www.youtube.com/@learn_with-fun)
+- GitHub: [rana135](https://github.com/rana135)
+- Facebook: [RanaHossainShimul](https://www.facebook.com/RanaHossainShimul/)
+- LinkedIn: [md-rana-hossain-487a09228](https://www.linkedin.com/in/md-rana-hossain-487a09228/)
+- Youtube: [@learn_with-fun](https://www.youtube.com/@learn_with-fun)
 
 ### Contact :
 If you have any questions, comments, or concerns, please feel free to contact me at rana286090@gmail.com.
