@@ -1,0 +1,17 @@
+.filterBtn {
+    padding: 8px;
+    min-width: 7rem;
+    font-weight: 700;
+    margin-left: 0.5rem;
+    border-radius: 5px;
+    border: 2px solid gray;
+  }
+  
+  .filterBtn:focus {
+    background-color: rgba(0, 98, 255, 0.83);
+    color: white;
+    font-family: "Rubik", sans-serif;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+  }
