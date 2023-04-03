@@ -20,10 +20,10 @@ This project was built using the following technologies:
 * [Express](https://expressjs.com/) - Fast, minimalist web framework for Node.js
 * [MongoDB](https://www.mongodb.com/) - NoSQL document database for storing and retrieving data
 
-#### Installation
-Clone the repository
-Install [insert any required dependencies here]
-Run npm start to launch the app
+### Installation
+* Clone the repository
+* Install [insert any required dependencies here]
+* Run npm start to launch the app
 
 ### API Documentation
 The app includes a RESTful API for interacting with the database. The API documentation can be found in the [Here]() .
