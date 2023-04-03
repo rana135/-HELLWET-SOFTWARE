@@ -14,11 +14,10 @@ A simple but powerful todo app built with React and Node.js that allows users to
 #### Technologies
 This project was built using the following technologies:
 
-* [React](https://react.dev/).
-* React - JavaScript library for building user interfaces
-* Node.js - JavaScript runtime for building server-side applications
-* Express - Fast, minimalist web framework for Node.js
-* MongoDB - NoSQL document database for storing and retrieving data
+* [React](https://react.dev/) - JavaScript library for building user interfaces
+* [Node.js](https://nodejs.org/en) - JavaScript runtime for building server-side applications
+* [Express](https://expressjs.com/) - Fast, minimalist web framework for Node.js
+* [MongoDB](https://www.mongodb.com/) - NoSQL document database for storing and retrieving data
 
 #### Contact
 If you have any questions, comments, or concerns, please feel free to contact me at rana286090@gmail.com.
