@@ -21,6 +21,14 @@ This project was built using the following technologies:
 * [MongoDB](https://www.mongodb.com/) - NoSQL document database for storing and retrieving data
 
 ### Installation :
+
+```cmd
+git clone https://github.com/rana135/-HELLWET-SOFTWARE.git
+npm install
+npm run build
+npm start
+```
+
 * Clone the repository
 * Choose the option 'Download Zip' and wait until it download.
 * Then you need to decompress it.
@@ -61,7 +69,7 @@ If you would like to contribute to the project, please follow these steps:
 
 - GitHub: [rana135](https://github.com/rana135)
 - Facebook: [RanaHossainShimul](https://www.facebook.com/RanaHossainShimul/)
-- LinkedIn: [md-rana-hossain-487a09228](https://www.linkedin.com/in/md-rana-hossain-487a09228/)
+- LinkedIn: [md-rana-hossain](https://www.linkedin.com/in/md-rana-hossain-487a09228/)
 - Youtube: [@learn_with-fun](https://www.youtube.com/@learn_with-fun)
 
 ### Contact :
