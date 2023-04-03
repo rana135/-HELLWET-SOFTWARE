@@ -22,6 +22,9 @@ This project was built using the following technologies:
 
 ### Installation :
 * Clone the repository
+* Choose the option 'Download Zip' and wait until it download.
+* Then you need to decompress it.
+* You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from here
 * Install [insert any required dependencies here]
 * Run npm start to launch the app
 
@@ -51,6 +54,15 @@ The app includes a variety of customization options that you can use to make the
 If you would like to contribute to the project, please follow these steps:
 * Fork the repository.
 * Create a new branch for your changes:
+
+## Authors
+
+👤 **Md Rana Hossain**
+
+- GitHub: [Bantealem](https://github.com/rana135)
+- Facebook: [Bantealem](https://www.facebook.com/RanaHossainShimul/)
+- LinkedIn: [Bantealem](https://www.linkedin.com/in/md-rana-hossain-487a09228/)
+- Youtube: [Bantealem](https://www.youtube.com/@learn_with-fun)
 
 ### Contact :
 If you have any questions, comments, or concerns, please feel free to contact me at rana286090@gmail.com.
