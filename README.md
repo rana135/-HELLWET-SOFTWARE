@@ -5,11 +5,12 @@ A simple but powerful todo app built with React and Node.js that allows users to
 #### Features
 * Create, edit, and delete tasks
 * Assign tasks to categories or tags
-* Set due dates and receive reminders
-* Collaborate with others by sharing lists or assigning tasks
-* Prioritize tasks based on importance or urgency
-* Subtasks and checklists
-* Search and filtering capabilities
+* Firebase Authentication Setup And MongoDB For The Database.
+* A Powerful Filtering System That Allows Readers To Find Content By Category.
+* Search and sorting capabilities
+* Secured All Page With Private Route, Users Must Have To Log In then get Access It..
+* Responsive Design That Adapts To Different Screen Sizes And Devices.
+* Amzging UI Exprience
 
 #### Technologies
 This project was built using the following technologies:
