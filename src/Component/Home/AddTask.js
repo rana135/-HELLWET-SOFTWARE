@@ -8,7 +8,7 @@ const AddTask = () => {
 
     const onSubmit = (data) => {
         console.log(data);
-        const url = `http://localhost:5000/addTask`
+        const url = `https://hellwet.onrender.com/addTask`
         fetch(url, {
             method: "POST",
             headers: {

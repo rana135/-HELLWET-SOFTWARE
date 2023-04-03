@@ -13,7 +13,7 @@ const TaskRow = ({ searchResult, taskInfo, index, setSearchResult }) => {
         const proceed = window.confirm('Are you sure ?')
 
         if (proceed) {
-            const url = `http://localhost:5000/tasks/${id}`
+            const url = `https://hellwet.onrender.com/tasks/${id}`
             fetch(url, {
                 method: "DELETE",
             })
@@ -31,11 +31,11 @@ const TaskRow = ({ searchResult, taskInfo, index, setSearchResult }) => {
         }
     }
 
-    const navigateTaskDetail = (id)=>{
+    const navigateTaskDetail = (id) => {
         navigate(`/taskDetail/${id}`);
     }
 
-    const navigateEditTask = (id)=>{
+    const navigateEditTask = (id) => {
         navigate(`/editTask/${id}`);
     }
 

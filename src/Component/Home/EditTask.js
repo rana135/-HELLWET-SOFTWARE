@@ -13,7 +13,7 @@ const EditTask = () => {
 
     const onSubmit = (data) => {
         console.log(data)
-        const url = `http://localhost:5000/editTask/${id}`
+        const url = `https://hellwet.onrender.com/editTask/${id}`
         fetch(url, {
             method: "PUT",
             headers: {
