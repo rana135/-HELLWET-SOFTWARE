@@ -39,13 +39,9 @@ npm start
 ### Usage :
 To create a new task, click the "Add Task" button at the top of the app. This will open a form where you can enter a title and description for the task. You can also set a due date for the task by clicking on the calendar icon and selecting a date.
 
-To edit or delete a task, simply click on the task in the list. This will open a modal where you can edit the task's details or delete the task altogether.
+To edit or delete a task, simply click on the task in the list. This will open another route where you can edit the task's details or delete the task altogether.
 
-To prioritize tasks, you can use the drag-and-drop feature to move tasks to different categories. There are three categories: "Urgent and Important", "Important but not Urgent", and "Urgent but not Important". You can drag tasks from one category to another to prioritize them based on their importance and urgency.
-
-To filter tasks based on their completion status, use the filter options at the top of the app. You can filter tasks based on whether they are "Completed" or "Not Completed".
-
-To collaborate with others, share the project link or invite team members to join. To invite team members, click on the "Team" button at the top of the app and enter their email addresses. They will receive an email invitation to join the project.
+To filter tasks based on their completion status, use the filter options at the top of the app. You can filter tasks based on whether they are "Physical" or "Social".
 
 That's it! With these features, you should be able to effectively manage your tasks and stay on top of your to-do list.
 
