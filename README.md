@@ -23,11 +23,9 @@ This project was built using the following technologies:
 #### Customization
 The app includes a variety of customization options that you can use to make the app suit your preferences. These options include:
 
-<b>Themes:</b> Choose from a variety of themes to change the look and feel of the app.
-<b>Fonts:</b> Choose from a variety of fonts to change the typography of the app.
-<b>Notification:</b> Customize the notifications that you receive for task reminders and updates.
-<b>Shortcut:</b> Customize keyboard shortcuts to make using the app more efficient.
-To customize the app, click on the "Settings" button in the app and select the appropriate option.
+<div><b>Themes:</b> Choose from a variety of themes to change the look and feel of the app.</div>
+<div><b>Fonts:</b> Choose from a variety of fonts to change the typography of the app.</div>
+<div><b>Notification:</b> Customize the notifications that you receive for task reminders and updates.</div>
 
 #### Contributing
 If you would like to contribute to the project, please follow these steps:
