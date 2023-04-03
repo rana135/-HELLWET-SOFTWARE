@@ -5,7 +5,7 @@ A simple but powerful todo app built with React and Node.js that allows users to
 #### Features
 * Create, edit, and delete tasks
 * Assign tasks to categories or tags
-* Firebase Authentication Setup And MongoDB For The Database.
+* Users can sign up and log in to the app using their email and password.
 * A Powerful Filtering System That Allows Readers To Find Content By Category.
 * Search and sorting capabilities
 * Secured All Page With Private Route, Users Must Have To Log In then get Access It..
@@ -19,6 +19,9 @@ This project was built using the following technologies:
 * [Node.js](https://nodejs.org/en) - JavaScript runtime for building server-side applications
 * [Express](https://expressjs.com/) - Fast, minimalist web framework for Node.js
 * [MongoDB](https://www.mongodb.com/) - NoSQL document database for storing and retrieving data
+
+#### API Documentation
+The app includes a RESTful API for interacting with the database. The API documentation can be found in the [Here]() .
 
 #### Customization
 The app includes a variety of customization options that you can use to make the app suit your preferences. These options include:
