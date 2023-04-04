@@ -3,7 +3,7 @@
 A simple but powerful todo app built with React and Node.js that allows users to manage tasks with ease. Users can create, edit, and delete tasks, assign tasks to categories or tags, set due dates and reminders, collaborate with others by sharing lists or assigning tasks, and more. The app uses MongoDB as a database for fast and reliable data storage.
 
 <div align="center">
-  <img height="150px" src="https://i.ibb.co/wLMSh8b/todo-removebg-preview.png"
+  <img height="200px" src="https://i.ibb.co/wLMSh8b/todo-removebg-preview.png"
        alt="project" />
 </div>
 
