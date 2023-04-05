@@ -55,9 +55,9 @@ The app includes a RESTful API for interacting with the database. The API docume
 
 ### Customization :
 The app includes a variety of customization options that you can use to make the app suit your preferences. These options include:
-<div><b>Themes:</b> Choose from a variety of themes to change the look and feel of the app.</div>
-<div><b>Fonts:</b> Choose from a variety of fonts to change the typography of the app.</div>
-<div><b>Notification:</b> Customize the notifications that you receive for task reminders and updates.</div>
+* <div><b>Themes:</b> Choose from a variety of themes to change the look and feel of the app.</div>
+* <div><b>Fonts:</b> Choose from a variety of fonts to change the typography of the app.</div>
+* <div><b>Notification:</b> Customize the notifications that you receive for task reminders and updates.</div>
 
 ### Contributing :
 If you would like to contribute to the project, please follow these steps:
